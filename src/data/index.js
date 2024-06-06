@@ -9,7 +9,7 @@ export const data = [
   {
     difficulty: "easy",
     question: `How many Power Stars are there in "Super Mario 64"?`,
-    text: "Um treinamento é composto por capítulos, onde cada aluno tem acesso a conteúdo teórico, seguido de uma lista de exercícios.",
+    text: "In Super Mario 64 we have to collect the stars to win the game, how many can you collect?",
     answers: ["100", "150", "120"],
     correct: 2,
   },
