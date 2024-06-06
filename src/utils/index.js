@@ -8,7 +8,7 @@ export const stuffType = {
   correct: { id: 1, color: "#4daf50" },
   wrong: { id: 2, color: "#f04532" },
   expired: { id: 3, color: "#ff9700" },
-  canceled: { id: 4, color: "#9e9e9e" },
+  canceled: { id: 4, color: "#9e9e9e" }
 };
 
 export const percentagePerfomace = (percentage) => {

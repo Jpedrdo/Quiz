@@ -9,7 +9,7 @@ import { TabPanel, Dashboard, Questions, Answered } from "../components";
 const Views = () => {
   const [value, setValue] = useState(0);
 
-  const handleChangeTab = (_, newValue) => setValue(newValue);
+  const handleChangeTab = (_, newValue) => setValue(newValue)
 
   return (
     <Box
